@@ -68,6 +68,8 @@ The logistics company does not buy software because it has cash to burn. It buys
 
 Because organisations rely on software to defend margins during periods of stress, understanding where technology interacts with human labour is essential. Statistical clustering analysis across 696 distinct occupations reveals that the modern workforce divides naturally into three fundamental economic segments:
 
+![Figure 3: The Three Faces of the Modern Workforce](reports/figures/figure3_workforce_clusters.png)
+
 ### Summary Profile: The 3 Cluster Workforce Model
 
 | Workforce Segment | Occupations | Median Wage | Cognitive Score | Payroll Volume | Economic Profile |
