@@ -3,13 +3,7 @@ layout: default
 title: "The Innovation Dilemma: How Geopolitical Shocks, Interest Rates, and Administrative Friction Shape Modern Work"
 ---
 
-[📥 Download PDF Briefing](reports/executive_report.pdf)
-
-# The Innovation Dilemma: How Geopolitical Shocks, Interest Rates, and Administrative Friction Shape Modern Work
-
-**An empirical investigation into why macro crises accelerate software adoption while bureaucratic coordination traps over $1.5 trillion in skilled labor value.**
-
----
+> 📄 **Executive Briefing**: [Download PDF Report](reports/executive_report.pdf)
 
 ## Executive Summary
 
