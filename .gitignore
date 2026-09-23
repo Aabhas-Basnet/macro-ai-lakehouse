@@ -1,0 +1,8 @@
+# Python and Jupyter artifacts
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+*.tmp
+.DS_Store
+Thumbs.db
